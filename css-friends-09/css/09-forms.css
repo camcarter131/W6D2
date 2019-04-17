@@ -1,0 +1,25 @@
+/* PHASE 9: Forms */
+
+.content-main .thumb {
+    float: left;
+}
+
+.content-main .form {
+    float: right;
+    display: flex;
+    flex-direction: column;
+}
+
+.form > div {
+    padding: 10px;
+}
+
+.submit {
+    display: inline;
+    font-weight: bold;
+}
+
+.post-form {
+    background-color: bisque;
+    /* border:  */
+}
